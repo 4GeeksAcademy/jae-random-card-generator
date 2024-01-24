@@ -3,3 +3,7 @@
   width: 150px;
   height: 200px;
 }
+#cardNumber {
+  height: 42vh;
+  font-size: 35px;
+}
